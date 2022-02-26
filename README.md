@@ -1,2 +1,2 @@
 # PC
-code for preferential channels identification
+we will upload the codes for preferential channels identification soon
